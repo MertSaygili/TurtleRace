@@ -6,7 +6,7 @@
 
 # GAME PLAY
 
-Choose your color and start to the race
+Choose your color and start the turtle race
 
 ![Screenshot 2022-01-29 102719](https://user-images.githubusercontent.com/74828364/151652026-54fec064-b6c2-4ac0-a3e0-39c928b7ee90.png)
 
